@@ -20,8 +20,13 @@ The T1-weighted and T2-weighted data were processed using the [MRTool](https://w
 
 We use the ORCA to count the 2-4 node graphlets
 > Hočevar, T., & Demšar, J. (2014). A combinatorial approach to graphlet counting. *Bioinformatics*, *30*(4), 559-565.
+
 You can visit this website for detailed instruction [Description — Orca (biolab.si)](https://file.biolab.si/biolab/supp/orca/orca.html)
+
+Besides, you can use the R package `orca` https://cran.r-project.org/web/packages/orca/index.html to do the same thing.
+
 ---
+
 Here, we only use the *11 non-redundant orbits* of 2- to 4-node graphlets (i.e. orbits 0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 11). Notably, for the output file or matrix, the column index of 11 non-redundant orbits is *index = [1:3 5:12], i.e., [1 2 3 5 6 7 8 9 10 11 12]*;
 > Yaveroğlu, Ö. N., Malod-Dognin, N., Davis, D., Levnajic, Z., Janjic, V., Karapandza, R., ... & Pržulj, N. (2014). Revealing the hidden language of complex networks. *Scientific reports*, *4*(1), 1-9. 
 
