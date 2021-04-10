@@ -4,7 +4,8 @@ function [r] = compare_two_graphs(G1, G2)
 % different network sizes/scales/types.
 %
 % input:
-%       A: a adjacency matrix
+%       G1: a graph (adjacency matrix)
+%       G2: a graph (adjacency matrix)
 %
 % Hao Wang, UESTC, Chengdu, 2020/04/01, hall.wong@outlook.com
 %--------------------------------------------------------------------------
