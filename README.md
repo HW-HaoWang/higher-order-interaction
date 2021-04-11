@@ -36,4 +36,4 @@ Here, we only use the *11 non-redundant orbits* of 2- to 4-node graphlets (i.e. 
 
 3、The Pearson correlation between their MI matrices is termed as the higher-order relationships of given networks.
 
-See the `compare_two_graphs.m` line 7 - 34 for details
+See the `compare_two_graphs.m` 
