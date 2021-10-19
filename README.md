@@ -1,6 +1,6 @@
-> **[Higher-order similarity between individual microstructural and functional brain network]()**
+> **[Higher-order interaction between individual microstructural and functional brain network]()**
 
-![](https://img.shields.io/badge/Language-matlab-brightgreen.svg?style=plastic) ![](https://img.shields.io/badge/Language-R-green.svg?style=plastic) ![](https://img.shields.io/badge/Date-14_Mar_2021-blue.svg?style=plastic)
+![](https://img.shields.io/badge/Language-matlab-brightgreen.svg?style=plastic) ![](https://img.shields.io/badge/Date-14_Mar_2021-blue.svg?style=plastic)
 
 **Functional data preprocessing**
 - [x] Discard first 14 volumes
