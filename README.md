@@ -1,4 +1,4 @@
-> **[Higher-order interaction of brain microstructural and functional connectome]()**
+> **Higher-order interaction of brain microstructural and functional connectome**
 
 ![](https://img.shields.io/badge/Language-matlab-brightgreen.svg?style=plastic) ![](https://img.shields.io/badge/Date-14_Mar_2021-blue.svg?style=plastic)
 
